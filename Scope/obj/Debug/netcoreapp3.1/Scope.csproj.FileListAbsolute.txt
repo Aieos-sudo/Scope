@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.exe
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.deps.json
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.dll
+C:\Users\Aieos_\Documents\code\Scope\Scope\bin\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.dll
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\Aieos_\Documents\code\Scope\Scope\obj\Debug\netcoreapp3.1\Scope.genruntimeconfig.cache
